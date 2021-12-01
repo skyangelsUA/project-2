@@ -6,11 +6,11 @@
   "homepage": "https://goitacademy.github.io/parcel-project-template",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /project-2/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/skyangelsUA/project-2.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
